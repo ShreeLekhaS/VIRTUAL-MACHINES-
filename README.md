@@ -1,8 +1,8 @@
 # VIRTUAL-MACHINES-
 ### EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 
-### Name : Shree Lekha S
-### Reg No : 212223110052
+#### Name : Shree Lekha S
+#### Reg No : 212223110052
 
 
 ## Aim:
